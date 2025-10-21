@@ -21,15 +21,11 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Seungwon Jang
+  email: sng209d@gmail.com
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
     - https://github.com/username # change to your GitHub homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
 
 # Site Verification Settings
 webmaster_verifications:
@@ -84,7 +80,7 @@ theme_mode: # [light | dark]
 # e.g. 'https://cdn.com'
 cdn:
 
-# the avatar on sidebar, support local or CORS resources
+# 좌 상단의 동그라미 ( 다크모드에서 잘 보임 ) 에 있는 프로필 사진 설정 - url 입력 ㅇㅅㅇ
 avatar:
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
