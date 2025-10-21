@@ -8,20 +8,15 @@ timezone: "Asia/Seoul"
 
 title: 🦔 Hedgehog 🦔 # 제목임
 
-tagline: ___📚 Study History___ # 제목 아래 , 부제목 같은거 ㅇㅅㅇ
+tagline: _____📚 Study History_____ # 제목 아래 , 부제목 같은거 ㅇㅅㅇ
 
-description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+description: >- # used by seo meta and the atom feed  -- 이건 대체 뭐지 ;;;
+  sng study blog
 
-# Fill in the protocol & hostname for your site.
-# E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://Seungwon-Jang-coder.github.io"
 
 github:
-  username: github_username # change to your GitHub username
-
-twitter:
-  username: twitter_username # change to your Twitter username
+  username: Seungwon-Jang-coder # change to your GitHub username
 
 social:
   # Change to your full name.
